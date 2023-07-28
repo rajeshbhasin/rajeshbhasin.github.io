@@ -1,15 +1,5 @@
 <div id="top"></div>
 
-<!-- PROJECT SHIELDS -->
-
-[![gh-pages-shield]][gh-pages-url]
-[![website-shield]][website-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -20,8 +10,8 @@
 <h3 align="center">react-vscode-portfolio</h3>
 
   <p align="center">
-    A vscode inspired portfolio project  
+    A vscode inspired portfolio project. 
   </p>
 </div>
 
-Credit to [Yan-Ying Liao] for providing the react code template("https://github.com/noworneverev")
+Credit to [Yan-Ying Liao]("https://github.com/noworneverev") for providing the react code template
