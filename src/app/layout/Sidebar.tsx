@@ -1,12 +1,12 @@
-import React from "react";
-import { Box, Link, Paper, Tooltip } from "@mui/material";
-import LightModeOutlinedIcon from "@mui/icons-material/LightModeOutlined";
-import DarkModeOutlinedIcon from "@mui/icons-material/DarkModeOutlined";
-import { VscFiles, VscSettingsGear } from "react-icons/vsc";
-import { BiGitBranch } from "react-icons/bi";
-import Divider from "@mui/material/Divider";
-import { links } from "../pages/links";
-import { useNavigate } from "react-router-dom";
+import React from 'react';
+import { Box, Link, Paper, Tooltip } from '@mui/material';
+import LightModeOutlinedIcon from '@mui/icons-material/LightModeOutlined';
+import DarkModeOutlinedIcon from '@mui/icons-material/DarkModeOutlined';
+import { VscFiles, VscSettingsGear } from 'react-icons/vsc';
+import { BiGitBranch } from 'react-icons/bi';
+import Divider from '@mui/material/Divider';
+import { links } from '../pages/links';
+import { useNavigate } from 'react-router-dom';
 
 interface Props {
   expanded: boolean;
@@ -28,7 +28,7 @@ export default function Sidebar({
     <Box
       sx={{
         height: `calc(100vh - 20px)`,
-        backgroundColor: darkMode ? "#333333" : "#2c2c2c",
+        backgroundColor: darkMode ? '#333333' : '#2c2c2c',
       }}
       justifyContent="space-between"
       display="flex"
@@ -46,12 +46,12 @@ export default function Sidebar({
         <Box
           sx={{
             borderLeft: expanded
-              ? "solid 0.12em white"
+              ? 'solid 0.12em white'
               : darkMode
-              ? "solid 0.12em #333333"
-              : "solid 0.12em #2c2c2c",
-            cursor: "pointer",
-            WebkitTapHighlightColor: "rgba(0,0,0,0)",
+              ? 'solid 0.12em #333333'
+              : 'solid 0.12em #2c2c2c',
+            cursor: 'pointer',
+            WebkitTapHighlightColor: 'rgba(0,0,0,0)',
           }}
           onClick={() => setExpanded(!expanded)}
         >
@@ -59,11 +59,11 @@ export default function Sidebar({
             sx={{
               flexGrow: 0,
               my: 1.5,
-              color: expanded ? "white" : "#858585",
+              color: expanded ? 'white' : '#858585',
               fontSize: 24,
-              outline: "none",
-              "&:hover": {
-                color: "white",
+              outline: 'none',
+              '&:hover': {
+                color: 'white',
               },
             }}
             display="flex"
@@ -75,19 +75,19 @@ export default function Sidebar({
         <Tooltip title="Source of this project" arrow placement="right">
           <Link
             target="_blank"
-            href={"https://github.com/noworneverev/react-vscode-portfolio"}
+            href={'https://github.com/rajeshbhasin/rajeshbhasin.github.io'}
             underline="none"
             color="inherit"
-            sx={{ WebkitTapHighlightColor: "rgba(0,0,0,0)" }}
+            sx={{ WebkitTapHighlightColor: 'rgba(0,0,0,0)' }}
           >
             <Box
               sx={{
                 flexGrow: 0,
-                cursor: "pointer",
-                color: "#858585",
+                cursor: 'pointer',
+                color: '#858585',
                 fontSize: 24,
-                "&:hover": {
-                  color: "white",
+                '&:hover': {
+                  color: 'white',
                 },
               }}
               display="flex"
@@ -109,18 +109,18 @@ export default function Sidebar({
               href={link.href}
               underline="none"
               color="inherit"
-              sx={{ WebkitTapHighlightColor: "rgba(0,0,0,0)" }}
+              sx={{ WebkitTapHighlightColor: 'rgba(0,0,0,0)' }}
             >
               <Box
                 sx={{
                   flexGrow: 0,
                   m: 0.5,
-                  color: "#858585",
+                  color: '#858585',
                   fontSize: 24,
-                  "&:hover": {
-                    color: "white",
+                  '&:hover': {
+                    color: 'white',
                   },
-                  cursor: "pointer",
+                  cursor: 'pointer',
                 }}
                 display="flex"
                 justifyContent="center"
@@ -139,7 +139,7 @@ export default function Sidebar({
         flexDirection="column"
       >
         <Tooltip
-          title={darkMode ? "Turn on the light" : "Turn off the light"}
+          title={darkMode ? 'Turn on the light' : 'Turn off the light'}
           placement="right"
           arrow
         >
@@ -147,12 +147,12 @@ export default function Sidebar({
             sx={{
               flexGrow: 0,
               fontSize: 24,
-              color: "#858585",
-              cursor: "pointer",
-              "&:hover": {
-                color: "white",
+              color: '#858585',
+              cursor: 'pointer',
+              '&:hover': {
+                color: 'white',
               },
-              WebkitTapHighlightColor: "rgba(0,0,0,0)",
+              WebkitTapHighlightColor: 'rgba(0,0,0,0)',
             }}
             display="flex"
             justifyContent="center"
@@ -173,22 +173,22 @@ export default function Sidebar({
           <Link
             onClick={() => {
               setSelectedIndex(-1);
-              navigate("/docs");
+              navigate('/docs');
             }}
             underline="none"
             color="inherit"
-            sx={{ WebkitTapHighlightColor: "rgba(0,0,0,0)" }}
+            sx={{ WebkitTapHighlightColor: 'rgba(0,0,0,0)' }}
           >
             <Box
               sx={{
                 flexGrow: 0,
                 fontSize: 24,
-                color: "#858585",
-                cursor: "pointer",
-                "&:hover": {
-                  color: "white",
+                color: '#858585',
+                cursor: 'pointer',
+                '&:hover': {
+                  color: 'white',
                 },
-                WebkitTapHighlightColor: "rgba(0,0,0,0)",
+                WebkitTapHighlightColor: 'rgba(0,0,0,0)',
               }}
               display="flex"
               justifyContent="center"
