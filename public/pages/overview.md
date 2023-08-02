@@ -98,6 +98,11 @@ A hands on tech manager with over 12 years of solid work experience in software 
 
 - Git
 
+# 🛠️ Projects
+
+[To-do app](https://rajeshbhasin-todo.netlify.app/) - A simple todo app built with ReactJS to add,edit,filter list of to-dos.
+<img src="../todo.png" width="400" height="200" />
+
 # 📖 Publications
 
 - Rajesh Bhasin, Won Jun Jang & John C. Hart-[A parallel stereo reconstruction algorithm with applications in entomology (APSRA)](https://doi.org/10.1117/12.905545) ( 3D Image Processing(3DIP) and Applications 2012)
