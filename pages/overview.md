@@ -106,6 +106,12 @@ A hands on tech manager with over 12 years of solid work experience in software 
 [Stock app](https://rajeshbhasin-stock.netlify.app/) - A simple stock app built with ReactJS to show stock data, a graph of 15-day prices, news related to the stock using Yahoo finance API.
 <img src="../stock.png" width="400" height="200" />
 
+
+[Eshop app](https://rajeshbhasin-eshop.netlify.app/)- A simple e-commerce app built with ReactJS and firebase.It has basic functionality like displaying products, adding/removing from cart and sign in.  
+
+<img src="../eshop.png" width="400" height="200" />
+
+
 # 📖 Publications
 
 - Rajesh Bhasin, Won Jun Jang & John C. Hart-[A parallel stereo reconstruction algorithm with applications in entomology (APSRA)](https://doi.org/10.1117/12.905545) ( 3D Image Processing(3DIP) and Applications 2012)
