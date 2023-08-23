@@ -2,15 +2,15 @@
 
 **Engineering Manager** @ [PepperContent](https://www.peppercontent.io/) _(July 2022 - July 2023)_
 
-- <div style="text-align: justify;">Managed the quality & tools team at Pepper with 6 direct reports.Collaborated with product managers, architects and other stakeholders to drive development, testing and delivery of various projects.Helped launch a new SaaS product - Content Marketing Platform(CMP) from scratch.Had other successful launches like SEO feature, Pepper docs and several enhancements to our marketplace platform.</div>
-- <div style="text-align: justify;">Also did the work of a SDM in leading stand-ups, grooming calls and unblocking teams to ensure timely execution. Worked closely with Customer Success teams (to resolve customer issues and understand user feedback) and Marketing(to give them a KT of latest features).</div>
+- Managed the quality & tools team at Pepper with 6 direct reports.Collaborated with product managers, architects and other stakeholders to drive development, testing and delivery of various projects.Helped launch a new SaaS product - [Content Marketing Platform(CMP)](https://www.peppercontent.io/blog/welcome-pepper-cmp/) from scratch.Had other successful launches like [SEO Content](https://www.peppercontent.io/features/keyword-strategy-and-research/), [Pepper docs](https://peppercontent.freshdesk.com/support/solutions/articles/67000696628-docs-by-pepper-your-new-home-for-writing) and several enhancements to our marketplace platform.</div>
+- <div style="text-align: justify;">Performed the responsibilities of an EM in leading stand-ups, grooming calls and unblocking teams to ensure timely execution. Worked closely with Customer Success teams (to resolve customer issues and understand user feedback) and Marketing(to give them a KT of latest features).</div>
 - <div style="text-align: justify;">Conducted monthly 1 on 1s, developed employee growth plans, reviewed test cases/pull requests(PR), set up the roadmap of the team and did performance appraisals.</div>
 - Hands on with developing automation tests for API testing.
   &nbsp;
 
 **Engineering Lead(SDET)** @ [PayU](https://payu.in/) _(April 2021 - July 2022)_
 
-- Lead for Transactional Credit(TC) business for the company and managing 3 engineers.Responsibilities involve planning, allocating and execution of projects.
+- Worked on the [Lazypay app](https://www.lazypay.in/) and led the Transactional Credit(TC) business for the company.Managed 3 engineers and responsibilities involved planning, allocating and execution of projects.
 - Work closely with product/development teams to estimate the test effort and develop release schedules.
 - Expertise in Agile, BDD development, SDLC/STLC , gap analysis and implementing best practices.
 - Involved in recruiting,mentoring and developing a team of highly talented engineers.
@@ -30,7 +30,7 @@
 
 **SDET II** @ [Amazon](https://www.amazon.in/) _(Sep 2017 - Jan 2019)_
 
-- <div style="text-align: justify;">Led iOS automation team driving bi-weekly sprints and code reviews.Our automation provided 85% additional coverage(via localisation) and saved 60% manual effort.</div>
+-Worked on the [Amazon Music app](https://apps.apple.com/us/app/amazon-music-songs-podcasts/id510855668) and led iOS automation team driving bi-weekly sprints and code reviews.Our automation provided 85% additional coverage(via localisation) and saved 60% manual effort.
 - <div style="text-align: justify;">Involved in the road map from research , test planning, framework implementation to writing test cases. Helped launch streaming service for our product which currently has a user base of nearly 10 million.</div>
 - Mentored junior engineers, did task prioritization and helped in hiring & growing the team.
 - <div style="text-align: justify;">Led team meetings and worked closely across teams for planning,resource gathering and design implementations. This helped guide product development and management decisions.</div>
@@ -38,7 +38,7 @@
 
 **Automation Engineer** @ [Apple](https://www.apple.com/) _(Nov 2014 - Sep 2017)_
 
-- Led the development of analytics, UI testing and validation suites (BDD).
+- Led the development of analytics, UI testing and validation suites (BDD) for [Apple News](https://www.apple.com/apple-news/).
 - Worked with product managers to design and test on key initiatives related to increased KPI(eg-ad campaigns)
 - <div style="text-align: justify;">Built initial prototype of framework which allowed us to quickly verify analytics. My responsibilities included analyzing results, fixing framework issues,measuring analytics and reporting product bugs.</div>
 - <div style="text-align: justify;">Developed scripts for reporting performance metrics.Compiled performance data for analysis and assisted product managers in development of monthly key results reports.This helped us drive user engagement.</div>
