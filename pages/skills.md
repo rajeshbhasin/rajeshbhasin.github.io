@@ -28,3 +28,6 @@
 ## Vcs
 
 - Git
+
+## Others
+- HTML,Css
