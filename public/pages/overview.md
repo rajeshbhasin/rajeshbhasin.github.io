@@ -73,6 +73,7 @@ A hands on tech manager with over 12 years of solid work experience in software 
 
 - Framework development
 - MERN stack
+- Django,Flask
 
 ## Programming languages
 
@@ -113,6 +114,10 @@ A hands on tech manager with over 12 years of solid work experience in software 
 [Eshop app](https://rajeshbhasin-eshop.netlify.app/)- A simple e-commerce app built with ReactJS and firebase.It has basic functionality like displaying products, adding/removing from cart and sign in.  
 
 <img src="../eshop.png" width="400" height="200" />
+
+[Expense app](http://rajeshbhasin.pythonanywhere.com/)-An app built with Flask, bootstrap and ChartJS to add/edit and view expenses
+
+<img src="../expense.png" width="400" height="200" />
 
 
 # 📖 Publications

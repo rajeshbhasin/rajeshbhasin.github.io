@@ -4,6 +4,7 @@
 
 - Framework development
 - MERN stack
+- Django,Flask
 
 ## Programming languages
 
