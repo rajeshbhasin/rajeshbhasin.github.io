@@ -1,5 +1,12 @@
 # 👨‍💻 Experience
 
+**Engineering Manager** @ [Cofactory.ai](https://www.linkedin.com/company/phia-co/) _(Oct 2023 - Feb 2024(Contractual))_
+
+- Managing a team of frontend, backend, test & data engineers building an AI based scalable product for providing resale of high-end fashion items.
+- We developed the extensions for chrome & safari ,a flask powered backend for APIs and a gpt powered image matching service which searches the available catalog of millions of images (from our retailer partners) and provides results in a few seconds.
+- End to end ownership of the data pipeline for collecting, cleaning and ingesting retailer data into our vector database.Optimized the BigQuery calls to reduce overall costs.
+- Automated the data pipeline using cronjobs and cloud functions on GCP.It helped bring down the data update time in our pipeline from few days to a few hours.
+
 **Engineering Manager** @ [PepperContent](https://www.peppercontent.io/) _(July 2022 - July 2023)_
 
 - Managed the quality & tools team at Pepper with 6 direct reports.Collaborated with product managers, architects and other stakeholders to drive development, testing and delivery of various projects.Helped launch a new SaaS product - [Content Marketing Platform(CMP)](https://www.peppercontent.io/blog/welcome-pepper-cmp/) from scratch.Had other successful launches like [SEO Content](https://www.peppercontent.io/features/keyword-strategy-and-research/), [Pepper docs](https://peppercontent.freshdesk.com/support/solutions/articles/67000696628-docs-by-pepper-your-new-home-for-writing) and several enhancements to our marketplace platform.</div>
@@ -31,6 +38,7 @@
 **SDET II** @ [Amazon](https://www.amazon.in/) _(Sep 2017 - Jan 2019)_
 
 -Worked on the [Amazon Music app](https://apps.apple.com/us/app/amazon-music-songs-podcasts/id510855668) and led iOS automation team driving bi-weekly sprints and code reviews.Our automation provided 85% additional coverage(via localisation) and saved 60% manual effort.
+
 - <div style="text-align: justify;">Involved in the road map from research , test planning, framework implementation to writing test cases. Helped launch streaming service for our product which currently has a user base of nearly 10 million.</div>
 - Mentored junior engineers, did task prioritization and helped in hiring & growing the team.
 - <div style="text-align: justify;">Led team meetings and worked closely across teams for planning,resource gathering and design implementations. This helped guide product development and management decisions.</div>
