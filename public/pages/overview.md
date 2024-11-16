@@ -6,6 +6,13 @@ A hands on tech manager with over 12 years of solid work experience in software 
 
 # 👨‍💻 Experience
 
+**Engineering Manager** @ [Cofactory.ai](https://www.linkedin.com/company/phia-co/) _(Oct 2023 - Feb 2024(Contractual))_
+
+- Managing a team of frontend, backend, test & data engineers building an AI based scalable product for providing resale of high-end fashion items.
+- We developed the extensions for chrome & safari ,a flask powered backend for APIs and a gpt powered image matching service which searches the available catalog of millions of images (from our retailer partners) and provides results in a few seconds.
+- End to end ownership of the data pipeline for collecting, cleaning and ingesting retailer data into our vector database.Optimized the BigQuery calls to reduce overall costs.
+- Automated the data pipeline using cronjobs and cloud functions on GCP.It helped bring down the data update time in our pipeline from few days to a few hours.
+
 **Engineering Manager** @ [PepperContent](https://www.peppercontent.io/) _(July 2022 - July 2023)_
 
 - Managed the quality & tools team at Pepper with 6 direct reports.Collaborated with product managers, architects and other stakeholders to drive development, testing and delivery of various projects.Helped launch a new SaaS product - [Content Marketing Platform(CMP)](https://www.peppercontent.io/blog/welcome-pepper-cmp/) from scratch.Had other successful launches like [SEO Content](https://www.peppercontent.io/features/keyword-strategy-and-research/), [Pepper docs](https://peppercontent.freshdesk.com/support/solutions/articles/67000696628-docs-by-pepper-your-new-home-for-writing) and several enhancements to our marketplace platform.</div>
@@ -100,6 +107,7 @@ A hands on tech manager with over 12 years of solid work experience in software 
 - Git
 
 ## Others
+
 - HTML,Css
 
 # 🛠️ Projects
@@ -110,15 +118,13 @@ A hands on tech manager with over 12 years of solid work experience in software 
 [Stock app](https://rajeshbhasin-stock.netlify.app/) - A simple stock app built with ReactJS to show stock data, a graph of 15-day prices, news related to the stock using Yahoo finance API.
 <img src="../stock.png" width="400" height="200" />
 
-
-[Eshop app](https://rajeshbhasin-eshop.netlify.app/)- A simple e-commerce app built with ReactJS and firebase.It has basic functionality like displaying products, adding/removing from cart and sign in.  
+[Eshop app](https://rajeshbhasin-eshop.netlify.app/)- A simple e-commerce app built with ReactJS and firebase.It has basic functionality like displaying products, adding/removing from cart and sign in.
 
 <img src="../eshop.png" width="400" height="200" />
 
 [Expense app](http://rajeshbhasin.pythonanywhere.com/)-An app built with Flask, bootstrap and ChartJS to add/edit and view expenses
 
 <img src="../expense.png" width="400" height="200" />
-
 
 # 📖 Publications
 
