@@ -91,11 +91,13 @@ A hands on tech manager with over 12 years of solid work experience in software 
 - Framework development
 - MERN stack
 - Django,Flask
+- Ruby on Rails
 
 ## Programming languages
 
 - Python
 - JavaScript
+- Go
 - React.js
 - Java
 
@@ -110,7 +112,6 @@ A hands on tech manager with over 12 years of solid work experience in software 
 - Selenium
 - TestNG
 - Cucumber
-- Appium
 
 ## Vcs
 
