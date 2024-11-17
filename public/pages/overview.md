@@ -6,6 +6,16 @@ A hands on tech manager with over 12 years of solid work experience in software 
 
 # 👨‍💻 Experience
 
+**Sr. Engineering Manager** @ [Zinnia](https://zinnia.com/) _(Apr 2024 - Present)_
+
+- First hire in the India marketplace team & built two backend teams from scratch
+- Contributing to both the strategic vision of the company and tactical execution of projects.
+- Led teams of nearly 15 members including a manager,full time employees and contractors.
+- Creating system designs & architecture for decoupling of our monolith into microservices.
+- Leading the platform team in India for developer experience and authentication.
+- Devised and implemented the hiring strategy including sourcing, interviewing and negotiating for SDE3/Sr/ Staff Software engineers in the team.
+- PR reviews,creating RFCs & leading the discussions with cross-team stakeholders.
+
 **Engineering Manager** @ [Cofactory.ai](https://www.linkedin.com/company/phia-co/) _(Oct 2023 - Feb 2024(Contractual))_
 
 - Managing a team of frontend, backend, test & data engineers building an AI based scalable product for providing resale of high-end fashion items.
