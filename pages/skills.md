@@ -5,11 +5,13 @@
 - Framework development
 - MERN stack
 - Django,Flask
+- Ruby on Rails
 
 ## Programming languages
 
 - Python
 - JavaScript
+- Go
 - React.js
 - Java
 
@@ -24,11 +26,11 @@
 - Selenium
 - TestNG
 - Cucumber
-- Appium
 
 ## Vcs
 
 - Git
 
 ## Others
+
 - HTML,Css
