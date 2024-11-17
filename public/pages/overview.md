@@ -112,7 +112,6 @@ A hands on tech manager with over 12 years of solid work experience in software 
 - Selenium
 - TestNG
 - Cucumber
-- Appium
 
 ## Vcs
 
